@@ -37,3 +37,11 @@ probability = experiment(hat=hat,
                   num_balls_drawn=5,
                   num_experiments=2000)
 Since this is based on random draws, the probability will be slightly different each time the code is run.
+
+# Installation
+- download the file
+- ensure you have python3 installed
+- run in the command line with the command python prob_calculator.py
+
+# License 
+prob_calculator is available under the MIT, GNU license. 
